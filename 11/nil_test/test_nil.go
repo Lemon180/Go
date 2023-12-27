@@ -1,7 +1,7 @@
-package mian
+package main
 
 /*
-指针
+nil
 */
 func main() {
 
